@@ -57,15 +57,13 @@
 			
 		<div class="row actions_row">
 				
-			<div class="col-md-4">
+			<div class="col-md-6">
 				<h2 class="tiles">Latest Gpa: ${sessionScope.gpa}</a> </h2>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-6">
 				<h2 class="tiles"> <a href="gpa-calculator.jsp">Calculate GPA</a> </h2>
 			</div>
-			<div class="col-md-4">
-				<h2 class="tiles"> <a href="/gpa/recommendations">Recommendations</a> </h2>
-			</div>
+			
 		</div>
 
     </div> <!-- /container -->

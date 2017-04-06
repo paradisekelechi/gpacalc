@@ -75,7 +75,7 @@
 			<div class="col-md-6 col-md-offset-3" >
 				<div class="form-group">
 					<div class="col-md-8 pull-right">
-						<a href="https://www.facebook.com/dialog/oauth?client_id=1261598180625121&redirect_uri=https://localhost:8080/gpa-calculator/Dashboard&scope=email">
+						<a href="https://www.facebook.com/dialog/oauth?client_id=1261598180625121&redirect_uri=https://localhost/gpa-calculator/Dashboard&scope=email">
 							<button type="submit" class="btn btn-primary btn-block">Login with Facebook</button>
 						</a>
 					</div>
