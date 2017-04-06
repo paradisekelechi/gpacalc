@@ -1,0 +1,13 @@
+INSTRUCTIONS
+The Grade Point Average Calculator can be run thus:
+
+DEPLOY AS A WEB APPLICATION ON TOMCAT
+To run the application on tomcat, do the following:
+1. Copy the gpa-calculator.war file into the webapps folder of your tomcat server.
+2. Copy the content of the lib folder (ormlite-core-5.0.jar, ormlite-jdbc-5.0.jar, postgresql-9.4.1212.jar) into the lib folder of your tomcat folder.
+3. Start the server and run the applicaction.
+
+BUILD AND RUN ON ECLIPSE
+To build the application and run it on eclipse, do the following:
+1. Copy the content of the lib folder (ormlite-core-5.0.jar, ormlite-jdbc-5.0.jar, postgresql-9.4.1212.jar) into the lib folder of your tomcat folder.
+2. Set your database settings by editing the variables: SERVER, USERNAME, PASSWORD in src/com/sfx/gpcalc/util/Constant.java file accordingly.
