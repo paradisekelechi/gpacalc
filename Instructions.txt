@@ -11,3 +11,5 @@ BUILD AND RUN ON ECLIPSE
 To build the application and run it on eclipse, do the following:
 1. Copy the content of the lib folder (ormlite-core-5.0.jar, ormlite-jdbc-5.0.jar, postgresql-9.4.1212.jar) into the lib folder of your tomcat folder.
 2. Set your database settings by editing the variables: SERVER, USERNAME, PASSWORD in src/com/sfx/gpcalc/util/Constant.java file accordingly.
+
+Use Maven
